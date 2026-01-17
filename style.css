@@ -641,7 +641,7 @@ margin: 0 20px;
 .theme-toggle, .language-selector {
     background: none;
     border: none;
-    color: white;
+    color: var(--accent-color);
     font-size: 1.2rem;
     cursor: pointer;
     transition: var(--transition);
