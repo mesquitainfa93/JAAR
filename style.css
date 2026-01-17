@@ -127,6 +127,18 @@ a:hover {
     border-bottom: 2px solid var(--accent-color);
 }
 
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    color: white;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
 /* Hero Section */
 .hero-section {
     background: linear-gradient(rgba(26, 60, 110, 0.85), rgba(44, 110, 156, 0.9)), url('https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80');
