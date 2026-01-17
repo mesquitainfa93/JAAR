@@ -88,6 +88,10 @@ a:hover {
     margin-left: 10px;
 }
 
+.navbar-toggler {
+    color: white;
+}
+
 .logo-main {
     font-size: 1.8rem;
     font-weight: 700;
