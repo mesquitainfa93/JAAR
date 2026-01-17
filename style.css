@@ -88,8 +88,8 @@ a:hover {
     margin-left: 10px;
 }
 
-.navbar-toggler-icon {
-    color: white;
+.navbar-toggler {
+    color: var(--accent-color);
 }
 
 .logo-main {
